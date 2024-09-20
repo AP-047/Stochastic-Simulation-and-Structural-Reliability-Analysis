@@ -12,15 +12,17 @@ This project focuses on evaluating the structural reliability of systems under u
 - Implementation of **First Order Reliability Method (FORM)** and **Adaptive Kriging Monte Carlo Simulation (AK-MCS)** using **MATLAB** and **UQLab** frameworks.
 - Convergence analysis of reliability methods to ensure accuracy in reliability estimates.
 
-## Project Structure
+# Project Report
 
-- `/code/`: Contains MATLAB scripts for running the simulations and reliability analysis.
-- `/results/`: Includes output results for reliability indices and probability of failure from the simulations.
-- `/plots/`: Graphical outputs (displacement diagrams, reliability convergence plots, etc.).
-- `/docs/`: Documentation files explaining the methodology and the interpretation of results.
+For a detailed explanation of the project, including methodology, results, and conclusions, please refer to the [project report](./Project_Report.pdf).
 
 ## Installation & Usage
 
 ### Requirements:
 - MATLAB R2023a or later
 - UQLab (download from [UQLab Website](https://www.uqlab.com/))
+
+### Running the Code:
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/Stochastic-Structural-Reliability-Analysis.git

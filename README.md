@@ -1,6 +1,6 @@
 # Stochastic Simulation and Structural Reliability Analysis
 
-This repository contains MATLAB code and results for a project on **Stochastic Simulation and Structural Reliability Analysis**, conducted during the Summer semester of 2024.
+This repository contains MATLAB code and results for a academic project on **Stochastic Simulation and Structural Reliability Analysis**, conducted during the Summer semester of 2024.
 
 ## Project Overview
 
